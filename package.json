@@ -1,0 +1,19 @@
+{
+  "name": "price-fetcher-telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "cron": "^1.8.2",
+    "dotenv": "^8.2.0",
+    "puppeteer": "^5.5.0",
+    "telegraf": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
